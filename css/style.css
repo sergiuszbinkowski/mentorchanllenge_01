@@ -1,0 +1,74 @@
+body {
+  background-color: #0d1a2d;
+}
+#karta {
+  width: 250px;
+  height: 450px;
+  background-color: #15273f;
+  border-radius: 10px;
+  margin: 200px auto;
+  padding: 15px;
+}
+img {
+  width: 250px;
+  border-radius: 10px;
+  /* margin: 15px auto 10px 15px; */
+}
+.title {
+  color: #fcffff;
+  font-family: Nunito;
+  font-weight: 500;
+  font-stretch: expanded;
+  font-size: 1.1rem;
+}
+.description {
+  color: #9bb0cb;
+  font-family: Nunito;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+.price {
+  color: #34dcdf;
+  font-family: Nunito;
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin-bottom: 2px;
+}
+.eth {
+  width: 10px;
+  margin-right: 5px;
+}
+hr {
+  border: solid 1px #2f3a4a;
+  border-bottom: 0;
+}
+.avatar {
+  width: 30px;
+  border: solid white 1px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
+}
+.author {
+  color: #9bb0cb;
+  font-family: Nunito;
+  font-size: 0.8rem;
+}
+span {
+  color: #fcffff;
+}
+.div-price {
+  display: inline-block;
+}
+.right {
+  margin-left: 85px;
+}
+.days {
+  margin-bottom: 2px;
+  color: #9bb0cb;
+  font-family: Nunito;
+  font-size: 0.8rem;
+}
+.clock {
+  width: 15px;
+}
